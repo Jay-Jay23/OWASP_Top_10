@@ -9,9 +9,11 @@
 <p>By adding an a single parathesis (') to test for SQL vulnerability <b>/category=Gifts’</b> server gives us an error relaying that the isnt a parameterized queries or prepared statement in the code </p>
 <img src="" alt="sql2">
 <p>Adding the following SQL code <b>/category=Gifts’+OR+1=1—</b> the sites shows hidden products not yet published</P>
-''' SQL
+
+``` sql
 Select * from product where category= 'Gitfts' OR 1=1
-'''
+```
+
 <img src="" alt="sql3">
 
 
