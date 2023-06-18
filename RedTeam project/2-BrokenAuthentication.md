@@ -17,7 +17,7 @@
 <p>Once logged in either using MITM application such as burp Suite capture the traffic to review <b>Post</b> or <b>Get </b> traffic or do it manually by looking that the URL tab on the browser</p>
 <img src="https://github.com/Jay-Jay23/OWASP_Top_10/blob/main/RedTeam%20project/images/Broken3.png" alt="broken">
 
-<p>Pay attention to the parameter at the end of the URL which is <b>student 1</B> which tell us that current user but also begs the question whether the is a <b>student 2</B> </p>
+<p>Pay attention to the parameter at the end of the URL which is <b>student 1</B> which tell us the current user but also begs the question whether the is a <b>student 2</B> </p>
 <img src="https://github.com/Jay-Jay23/OWASP_Top_10/blob/main/RedTeam%20project/images/Broken3.png" alt="broken">
 
 <p>By modifing the parameter to <b>student 2</B> lets see what happens</p>
