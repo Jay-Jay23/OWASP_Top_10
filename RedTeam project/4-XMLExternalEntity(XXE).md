@@ -35,5 +35,5 @@
 ```
 
 <p> Or push the captured request to repeater, to try and read the /etc/passwd</p>
-<img src="https://github.com/Jay-Jay23/OWASP_Top_10/blob/main/RedTeam%20project/images/XXE2.png" alt="XML">
+<img src="https://github.com/Jay-Jay23/OWASP_Top_10/blob/main/RedTeam%20project/images/XXE3.png" alt="XML">
 
