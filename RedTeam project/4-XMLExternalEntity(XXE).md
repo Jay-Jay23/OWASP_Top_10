@@ -8,7 +8,7 @@
 
 ## XML External Entity (XXE) example:
 
-### Dumping data from a database & cracking hashes:
+### XXE Payload:
 <p>Having a look around the webapp. </p>
 <p>On the source code on the <b>/login page</b>. found a note mentioning a directory</p>
 <img src="https://github.com/Jay-Jay23/OWASP_Top_10/blob/main/RedTeam%20project/images/xml.png" alt="XML">
